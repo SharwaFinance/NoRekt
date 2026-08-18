@@ -1,1 +1,0 @@
-import{t as e}from"./secp256k1-C_G3p21M.js";export{e as secp256k1};
